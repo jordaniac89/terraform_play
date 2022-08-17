@@ -1,4 +1,4 @@
-.terraform
+.terraform*
 bastion_private.pem
 bastion_public
 terraform.tfstate*
